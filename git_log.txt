@@ -1,0 +1,51 @@
+commit 3589004fba4e749f57107ead04b4e409094ccd99
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 20:28:36 2026 -0800
+
+    Resolved merge conflict
+
+commit 9a1951b0f595d4b25c06afaed85252d94947ecd5
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 19:57:07 2026 -0800
+
+    Added div for favorite game
+
+commit 9a7fb0d4135382a796456c5d3619da0a22644c07
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 19:49:57 2026 -0800
+
+    Added div for favorite food
+
+commit dc4b3c604c1a9d2b500d7a1d8543ddd130674869
+Merge: 9fa90ca 3dbe057
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 17:23:25 2026 -0800
+
+    Merge branch 'main' of https://github.com/wcai0001/CS3338-second-project
+
+commit 9fa90ca45d477e1b06d2111737b3f2ac98e54e4b
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 17:21:08 2026 -0800
+
+    Added read me
+
+commit 3dbe057e87f591a80a87ba4594ab962e881ab785
+Merge: 1d2bfc0 f29f44d
+Author: wcai0001 <wcai3@calstatela.edu>
+Date:   Thu Feb 19 17:08:27 2026 -0800
+
+    Merge pull request #1 from wcai0001/info-fill
+    
+    Filled blanks
+
+commit f29f44d1ca8875af3bef75a95cdd07a203104c07
+Author: Wei <wcai3@calstatela.edu>
+Date:   Thu Feb 19 17:02:21 2026 -0800
+
+    Filled blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
